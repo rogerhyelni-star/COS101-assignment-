@@ -1,6 +1,3 @@
-# COS 101 PHYSICS ASSIGNMENT
-
-# Function to calculate Speed
 def speed():
     distance = float(input("Enter distance (m): "))
     time = float(input("Enter time (s): "))
